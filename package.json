@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start":"nodemon src/index.js"
+    "start":"src/index.js"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
@@ -17,7 +17,6 @@
     "node-url-shortener": "^1.1.11",
     "nodemailer": "^6.4.11",
     "shortid": "^2.2.15",
-    "nodemon":"^1.18.4"
   },
   "keywords": []
 }
