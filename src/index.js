@@ -21,7 +21,7 @@ const chartroute= require("./routes/chartroute")
 app.use("/",userroute)
 app.use("/url",urlroute)
 app.use("/visual",chartroute)
-app.listen(process.env.PORT || 3000,()=>{
+app.listen(process.env.PORT|| 3000,()=>{
   console.log("Server connected!!!")
 })
 
