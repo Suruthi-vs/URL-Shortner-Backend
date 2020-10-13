@@ -16,11 +16,7 @@
     "mongoose": "^5.10.2",
     "node-url-shortener": "^1.1.11",
     "nodemailer": "^6.4.11",
-    "passport": "0.4.1",
     "shortid": "^2.2.15"
-  },
-  "devDependencies": {
-    "nodemon": "1.18.4"
   },
   "keywords": []
 }
